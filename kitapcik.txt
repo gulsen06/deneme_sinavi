@@ -1,3 +1,4 @@
 1. matematik
 2. türkce
-3.fizik
+3. fizik
+4. yabanci dil
