@@ -2,3 +2,4 @@
 2. türkce
 3. fizik
 4. yabanci dil
+5. Secmeli ders
