@@ -3,4 +3,4 @@
 3. fizik
 4. yabanci dil
 5. Secmeli ders
-
+6. Tarih
